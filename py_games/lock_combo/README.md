@@ -1,0 +1,3 @@
+# Lock Combo (Unfinished)
+
+The idea is to illustrate the power of brute force. There is a lock with an N-digit combination that you are trying to open. If they open it successfully the vault opens to reveal ...
